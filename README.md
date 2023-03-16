@@ -1,3 +1,3 @@
-### Client Server model, communication through sockets using multiple threads
+### Client-Server model, communication through sockets using multiple threads
 
 
